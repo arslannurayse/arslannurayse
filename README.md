@@ -1,16 +1,23 @@
-### Hi there 👋
+ [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcodigno.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fgithub-nedir-1.webp&tbnid=fAAQPLXJEnTKgM&vet=12ahUKEwjz4cr31OSCAxWPxwIHHTF1Da4QMyhSegUIARCNAg..i&imgrefurl=https%3A%2F%2Fcodigno.com%2Fgithub-nedir%2F&docid=jwPBFjVtVQ4vdM&w=1500&h=600&q=github%20foto%C4%9Fraf%20&ved=2ahUKEwjz4cr31OSCAxWPxwIHHTF1Da4QMyhSegUIARCNAg)
 
-<!--
-**arslannurayse/arslannurayse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Merhaba 👋, ben Ayşe Nur Arslan</h1>
+<h3 align="center">Türkiye'de endüstri mühendisiyim</h3>
 
-Here are some ideas to get you started:
+- 🌱 Şu anda öğreniyorum **kodluyoruz 'da veri bilimi eğitimi alıyorum**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Bana nasıl ulaşabilirsiniz **aysnrarsln@icloud.com**
+
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href ="https://linkedin.com/in/ayse nur arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- jeneratör/master/src/images/icons/Social/linked-in-alt.svg" alt = "ayse nur arslan" height = "30" width = "40" /></a> </p> <
+h3
+
+align ="left">Diller ve Araçlar:</h3>
+<p align = "left"> <a href = "https://www.w3schools.com/cpp/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40"/> </ a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslannurayse&show_icons=true&locale=en&layout=compact" alt ="arslannurayse" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=arslannurayse&show_icons=true&locale=en" alt ="arslannurayse" /></p>
+
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=arslannurayse&" alt = "arslannurayse" / ></p>
+
